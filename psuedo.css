@@ -1,0 +1,37 @@
+a:link{
+    color:blue
+}
+a:visited{
+    color:blueviolet
+}
+a:hover{
+    color:brown
+}
+a:active{
+    color:tomato
+}
+button:link{
+    background-color:grey
+}
+button:visited{
+    color:beige
+}
+button:hover{
+    color:blue
+}
+button:active{
+    color:chartreuse
+}
+li:nth-child(2n){
+    background-color:blueviolet
+}
+li:nth-child(2n+1){
+    background-color:lightsteelblue
+}
+
+h1{
+    text-shadow:5px 5px 5px grey
+}
+h1:hover{
+    box-shadow:0px 5px 5px lightslategray
+}

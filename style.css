@@ -1,0 +1,30 @@
+body{
+    /* background: linear-gradient(lightblue,lightgreen);
+    background-repeat: no-repeat;
+    background-position: fixed; */
+    background-image: url(https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    /* color: blue; */
+    background: linear-gradient(lightblue,lightgreen);
+    background-repeat: no-repeat;
+    background-position: fixed; 
+}
+p{
+    /* background-color: chocolate;
+    color: beige;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-weight: 200;
+    font-variant: initial;
+    border-style: inset ;
+    border-color: darkred;
+     */
+     background: linear-gradient(lightblue,lightgreen);
+    background-repeat: no-repeat;
+    background-position: fixed; 
+}
